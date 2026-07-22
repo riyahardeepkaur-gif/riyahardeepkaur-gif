@@ -7,7 +7,7 @@
 - Building real-world projects
 
 ## Projects
--     ScholarAI
+-  ScholarAI
 -  Food Shop Website
 -  Hospital Management System
 
