@@ -7,8 +7,9 @@
 - Building real-world projects
 
 ## Projects
-- 🍔 Food Shop Website
-- 🏥 Hospital Management System
+-     ScholarAI
+-  Food Shop Website
+-  Hospital Management System
 
 ## Tech Stack
 - Python
